@@ -1,0 +1,19 @@
+{
+  "name": "node_estudos",
+  "version": "1.0.0",
+  "description": "node estudos",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express.js": "^1.0.0",
+    "mongoose": "^7.6.3",
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Rayan",
+  "license": "ISC"
+}
